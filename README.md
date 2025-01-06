@@ -1,9 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # react_shopping_cart
+ -Developed a shopping cart application using React, featuring dynamic routing for home, search, cart page and filter by category/price.
+ -Implemented state management for cart functionality and search filter for ehance use experience.
+
+# Technologies used
+  -React, Dynamic router
